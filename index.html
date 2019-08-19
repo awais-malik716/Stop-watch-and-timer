@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <p>
+        <span id="hours"></span>
+        :
+        <span id="minutes"></span>
+        :
+        <span id="seconds"></span>
+    </p>
+
+    <h1>Stop Watch</h1>
+
+    <p id="stop-watch">
+        <span id="hour-plus">00</span>
+         :
+        <span id="minutes-plus">00</span>
+         :
+        <span id="seconds-plus">00</span>
+         :
+        <span id="mini-seconds-plus">00</span>
+
+    </p>
+
+    <button onclick="startWatch()">Start</button>
+    <button onclick="reset()">Reset</button>
+
+    <h1>Timer</h1>
+
+    <input type="number" id="time-input">
+
+    <p>
+        <input type="number" id="timer" min="0">
+    </p>    
+
+    <button onclick="setTimer()">Set Timer</button>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>

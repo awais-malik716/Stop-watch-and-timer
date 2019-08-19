@@ -1,0 +1,18 @@
+p{
+    width: 250px;
+    padding: 10px;
+    background: black;
+    color: red;
+    border: 3px solid red;
+    text-align: center;
+}
+
+span{
+    font-size: 1.8em;
+}
+#stop-watch span{
+    font-size: 1.8em;
+    width: 30px;
+    padding: 10px;
+    
+}
