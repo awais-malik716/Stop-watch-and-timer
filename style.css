@@ -16,3 +16,12 @@ span{
     padding: 10px;
     
 }
+
+#timer{
+    border: none;
+    background-color: black;
+    font-size: 1.8em;
+    color: red;
+    width: 200px;
+    text-align: center
+}
