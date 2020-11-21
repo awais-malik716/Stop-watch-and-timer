@@ -1,4 +1,4 @@
 # Stop-watch-and-timer
 
 
-https://awais-malik716.github.io/Stop-watch-and-timer/
+https://beingawaisali.github.io/stop-watch-and-timer/
